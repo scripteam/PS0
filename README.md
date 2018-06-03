@@ -1,11 +1,11 @@
-# Physical Security and Insider Threat Detection
+# PS0: Ontological Framework For Physical Security and Insider Threat Detection
 
-The SP0 framework and ontology will be publicly available when we publish the paper.
+The PS0 framework and ontology will be publicly available when we publish the paper.
 
-## SP0 Framework
+## PS0 Framework
 
-![alt text](https://github.com/scripteam/InDArch/blob/master/SP0_framework.png)
+![alt text](https://github.com/scripteam/InDArch/blob/master/PS0_framework.png)
 
-## SP0 Ontology
+## PS0 Ontology
 
-![alt text](https://github.com/scripteam/InDArch/blob/master/SP0_ontology.png)
+![alt text](https://github.com/scripteam/InDArch/blob/master/PS0_ontology.png)
