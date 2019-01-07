@@ -1,5 +1,11 @@
-# InDArch - Insider Threat Detection Architecture
+# PS0: Ontological Framework For Physical Security and Insider Threat Detection
 
-The architecture will be publicly available when we publish the paper.
+The PS0 framework and ontology will be publicly available when we publish the paper.
 
-![alt text](https://github.com/scripteam/InDArch/blob/master/InD_architecture.png)
+## PS0 Framework
+
+![alt text](https://github.com/scripteam/InDArch/blob/master/PS0_framework.png)
+
+## PS0 Ontology
+
+![alt text](https://github.com/scripteam/InDArch/blob/master/PS0_ontology.png)
